@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Cabinet Grotesk', sans-serif;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(30, 30, 30);
+    width: 100vw;
+}
+
+.nav__shop-image img{
+    margin: 1rem;
+    height: 70px;
+    width: 100px;
+}
+
+.nav__menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav__products {
+    color: rgb(222, 222, 222);
+    font-size: 25px;
+    padding: 2rem;
+}
+
+.nav__products a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.nav__search input{
+    width: 13rem;
+    height: 2rem;
+    border-radius: 1rem;
+    padding: 1rem;
+    border: none;
+}
+
+.nav__search-button {
+    padding-right: 1rem;
+    color: rgb(222, 222, 222);
+}
+
+.banner {
+    width: 100vw;
+    height: 30rem;
+    background-image: url(../recursos/Banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner__text {
+    font-size: 64px;
+    font-weight: 900;
+    color: white;
+    position: relative;
+    top: 45%;
+    left: 3%;
+    filter: drop-shadow(0 0 0.75rem rgb(53, 29, 34));
+}
+
+.products {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+.products__title {
+    font-size: 39.1px;
+    font-weight: 700;
+}
+
+.products__products-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.products__product-list {
+    width: 70%;
+    margin: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+.products__product {
+    margin: 1rem;
+    filter: drop-shadow(0 0 0.85rem rgb(155, 155, 155));
+}
+
+.products__product a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.products__product-image {
+    width: 13rem;
+}
+
+.products__product-name {
+    font-size: 20px;
+}
+
+.products__price {
+    font-size: 16px;
+}
