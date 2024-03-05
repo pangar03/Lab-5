@@ -7,6 +7,10 @@
     font-family: 'Cabinet Grotesk', sans-serif;
 }
 
+body {
+    width: 100% ;
+}
+
 .nav {
     display: flex;
     justify-content: space-between;
@@ -60,12 +64,13 @@
 }
 
 .banner__text {
+    width: fit-content;
     font-size: 64px;
     font-weight: 900;
     color: white;
     position: relative;
-    top: 45%;
-    left: 3%;
+    top: 15rem;
+    left: 3rem;
     filter: drop-shadow(0 0 0.75rem rgb(53, 29, 34));
 }
 
