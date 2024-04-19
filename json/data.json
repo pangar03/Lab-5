@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "PacMan T-Shirt",
+        "price": 20,
+        "description": "This retro PacMan t-shirt is perfect for fans of the classic arcade game. Featuring a colorful design with the iconic PacMan character, this shirt is a fun and stylish addition to any wardrobe. Made from soft, breathable cotton, it's comfortable to wear all day long. Whether you're a gaming enthusiast or just love the nostalgic vibe, this t-shirt is sure to be a hit.",
+        "image": "https://github.com/pangar03/Lab-5/blob/main/recursos/IMG1.jpg?raw=true"
+    },
+    {
+        "id": 2,
+        "name": "Pink wear shirt",
+        "price": 35,
+        "description": "With this pink wear shirt you will be the center of attention. It is a very comfortable shirt, made of cotton and polyester. It is perfect for any occasion, whether it is a casual outing or a special event. The shirt has a modern design with a slim fit that will make you look great. It is available in different sizes, so you can choose the one that best suits you. Don't miss the opportunity to get this amazing shirt and add it to your wardrobe",
+        "image": "https://github.com/pangar03/Lab-5/blob/main/recursos/IMG2.jpg?raw=true"
+    },
+    {
+        "id": 3,
+        "name": "Palm Angels T-Shirt",
+        "price": 20,
+        "description": "This T-shirt has style and comfort. It is made of 100% cotton, which makes it soft and breathable. The design is inspired by the Palm Angels brand, with a modern and urban style. The T-shirt is available in different sizes, so you can choose the one that best suits you. It is perfect for casual ocasion. Don't miss the opportunity to get this amazing T-shirt and add it to your wardrobe.",
+        "image": "https://github.com/pangar03/Lab-5/blob/main/recursos/IMG3.jpg?raw=true"
+    },
+    {
+        "id": 4,
+        "name": "Space T-Shirt",
+        "price": 15,
+        "description": "With this spatial T-shirt featuring the moon you can let your imagination out. Show your love for rockets and outer space with this unique 100% cotton T-shirt, with a durable and colorful design.",
+        "image": "https://github.com/pangar03/Lab-5/blob/main/recursos/IMG4.jpg?raw=true"
+    },
+    {
+        "id": 5,
+        "name": "Rat Master T-Shirt",
+        "price": 30,
+        "description": "Find your unique style with this 100% cotton T-shirt, the rat master T-shirt offers you some extra comfort while looking superb. With its japanese lettering and modern design you will steal the show anywhere you go.",
+        "image": "https://github.com/pangar03/Lab-5/blob/main/recursos/IMG5.jpg?raw=true"
+    },
+    {
+        "id": 6,
+        "name": "Crown T-Shirt",
+        "price": 25,
+        "description": "Be the king with this 100% cotton T-shirt. Complete comfort and style, you can't let the opportunity to have this T-shirt slide, with durable designs, this shirt is made for people that shows their style on unique ways.",
+        "image": "https://github.com/pangar03/Lab-5/blob/main/recursos/IMG6.jpg?raw=true"
+    }
+]
